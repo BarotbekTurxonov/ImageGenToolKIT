@@ -92,5 +92,3 @@ except Exception as e:
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 ---
-
-<p>Feel free to reach out with any questions or suggestions! 🚀</p>

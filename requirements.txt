@@ -1,0 +1,6 @@
+requests
+aiohttp
+fake_useragent
+setuptools
+wheel
+twine
